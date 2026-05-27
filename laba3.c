@@ -5,9 +5,9 @@
 #include <iomanip>
 #include <windows.h>
 
-// Данные об авторе (ВЫВОДЯТСЯ ПРИ СТАРТЕ ПРОГРАММЫ)
+
 const std::string AUTHOR_FIO = "Соколов Кирилл Анатольевич";
-const std::string AUTHOR_GROUP = "090304-РПИа-о25"; // Укажи свою группу, если отличается
+const std::string AUTHOR_GROUP = "090304-РПИа-о25"; 
 
 // Структура точки для BFS
 struct Point {
